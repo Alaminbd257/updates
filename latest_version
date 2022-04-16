@@ -1,6 +1,6 @@
 {
   "versionCode": "1.0",
-  "updateList": [
+  "updateList": {
     {
       "description": "Added block all clients of a reseller if the resellers account was blocked."
     },
@@ -28,5 +28,5 @@
     {
       "description": "Improved viewing server statistics."
     }
-  ]
+  }
 }
