@@ -2,9 +2,7 @@
   "versionCode": "1.0",
   "versionTitle": "HI, THIS IS TEST",
   "versionType": "success",
-  "versionMSG": "HOT FIX VIEWING SERVER INFORMATION FOR SSH AND OPENCONNECT 
-  Please Clear-Cache browser and Re-Install your servers 
-  Viewing server statistics now should be fast.",
+  "versionMSG": "HOT FIX VIEWING SERVER INFORMATION FOR SSH AND OPENCONNECT Please Clear-Cache browser and Re-Install your servers Viewing server statistics now should be fast.",
   "updateList": [
     {
       "description": "Added block all clients of a reseller if the resellers account was blocked."
